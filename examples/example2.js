@@ -3,7 +3,7 @@ const client = require("../index.js");
 
 const config = {
 	host: "172.29.65.197", // Change to correspond with your config
-	port: 21000, // Change to correspond with your config
+	port: 21050, // Change to correspond with your config
 	username: "", // Change to correspond with your config
 	password: "", // Change to correspond with your config
 	protocol_ver: 5, // Version 1 - 11. Change to suit your HS2 Protocol Version, defaults to V5
